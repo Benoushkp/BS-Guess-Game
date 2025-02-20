@@ -1,6 +1,6 @@
 # BS-Guess-Game
 
-**Random Guess Game** is an interactive number guessing game where players try to guess a randomly generated number between 1 and 100. The game provides real-time hints, score tracking, and smooth UI effects for an engaging experience.  
+**BS Guess Game** is an interactive number guessing game where players try to guess a randomly generated number between 1 and 100. The game provides real-time hints, score tracking, and smooth UI effects for an engaging experience.  
 
 ## Features 🚀  
 - 🎮 Guess a number between 1-100  
