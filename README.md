@@ -23,10 +23,7 @@
 5. If the score reaches 0, you lose—try again!  
 
 ## Installation & Usage 💻  
-1. Clone this repository:  
-   ```
-   git clone https://github.com/your-username/random-guess-game.git
-   ```  
+1. Clone this repository.
 2. Open `index.html` in a browser.  
 3. Enjoy the game!  
 
